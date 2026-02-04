@@ -126,7 +126,7 @@ footer {
 }
 
 
-@media (min-width: 1900px) {
+@media (min-width: 1800px) {
 	.container,
 	.container-lg,
 	.container-md,
@@ -909,6 +909,17 @@ p {
   }
 }
 
+
+@media (min-width: 1900px) { 
+  .card-content {
+    padding: 1rem 1rem 0;
+  }
+  
+
+  .card-d {
+    padding-bottom: 10px;
+  }
+}
 
 /* MX */
 @media (max-width: 1399.98px) { 
