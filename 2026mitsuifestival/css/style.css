@@ -134,7 +134,7 @@ footer {
 	.container-xl,
 	.container-xxl,
 	.container-3xl{
-		max-width: 1520px;
+		max-width: 1550px;
 	}
 
   .christmas-container {
@@ -902,14 +902,11 @@ p {
     line-height: 28px;
   }
 
-
   .card-d h3 {
     font: 28px GenKiMin-R;
     font-weight: 600;
     text-indent: 10px;  
   }
-
-  
 }
 
 
