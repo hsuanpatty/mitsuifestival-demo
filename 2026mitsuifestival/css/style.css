@@ -336,7 +336,7 @@ nav {
   
 nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 6px 15px;
 }
     
