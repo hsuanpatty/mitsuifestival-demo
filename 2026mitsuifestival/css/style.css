@@ -529,7 +529,7 @@ p {
 
 @media (min-width: 501px) { 
   .mitsu-container {
-    padding: 4rem 60px 0;
+    padding: 3rem 60px 0;
   }
   .mitsu-card-img img {
      max-width: 111%;
@@ -538,7 +538,7 @@ p {
 
 @media (min-width: 768px) { 
   .mitsu-container {
-    padding: 2rem 10px 0;
+    padding: 3rem 10px 0;
   }
 
   .mitsu-card-img img {
@@ -801,11 +801,11 @@ p {
 @media (min-width: 992px) { 
   .mitsu-group {
     grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    gap: 2rem 1rem;
   }
 
   .mitsu-container {
-    padding: 4rem 0 0;
+    padding: 3rem 0 0;
   }
 
   .card-content  h1 {
@@ -875,7 +875,7 @@ p {
   }
 
   .mitsu-container {
-    padding: 2rem 10px 0;
+    padding: 3rem 10px 0;
   }
 
   .card-d h3 {
