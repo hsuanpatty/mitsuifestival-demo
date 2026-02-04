@@ -844,7 +844,7 @@ p {
   }
 
   .card-content p { 
-    height: auto;            
+    height: 80px;            
     max-height: calc(1.6em * 3);
   }
 
@@ -906,6 +906,11 @@ p {
     font: 28px GenKiMin-R;
     font-weight: 600;
     text-indent: 10px;  
+  }
+    
+  .card-content p { 
+    height: auto;            
+    max-height: calc(1.6em * 3);
   }
 }
 
